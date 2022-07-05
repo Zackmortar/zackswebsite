@@ -1,5 +1,5 @@
 .information {
-    color:black    
+    color:white
     margin:0;
     padding-top:5em;
     text-align: center;
@@ -7,14 +7,13 @@
     font-size: 30px;
 }
 body{
-    background-color: #969595;
-    padding:0;
-    margine:0;
+    background-color: black;
+    color:white;
 }
 a {
   text-decoration: none;
     color: black;
-    background-color: #696969;
+    background-color: antiquewhite;
     border-radius: 1em;
     margin: 0.3em;
     padding: 0.3em;
