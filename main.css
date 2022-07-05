@@ -8,6 +8,8 @@
 }
 body{
     background-color: #969595;
+    padding:0;
+    margine:0;
 }
 a {
   text-decoration: none;
